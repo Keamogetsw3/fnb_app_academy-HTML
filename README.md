@@ -69,6 +69,9 @@ You can view the live HTML page here:
 
 🔗 [View images.html on GitHub Pages](https://keamogetsw3.github.io/fnb_app_academy-HTML/images.html)
 
+🔗 [View resize_images.html on GitHub Pages](https://keamogetsw3.github.io/fnb_app_academy-HTML/resize_images.html)
+
+
 ## 🛠 Tools
 - [VS Code Download](https://code.visualstudio.com/)
 

@@ -42,6 +42,7 @@ HTML stands for Hyper Text Markup Language. It's used to structure content on th
 You can view the live HTML page here:
 
 🔗 [View index.html on GitHub Pages](https://keamogetsw3.github.io/fnb_app_academy-HTML/index.html)
+🔗 [View paragraph.html on GitHub Pages](https://keamogetsw3.github.io/fnb_app_academy-HTML/paragraph.html)
 
 
 ## 🛠 Tools

@@ -67,6 +67,7 @@ You can view the live HTML page here:
 
 🔗 [View headings.html on GitHub Pages](https://keamogetsw3.github.io/fnb_app_academy-HTML/headings.html)
 
+🔗 [View images.html on GitHub Pages](https://keamogetsw3.github.io/fnb_app_academy-HTML/images.html)
 
 ## 🛠 Tools
 - [VS Code Download](https://code.visualstudio.com/)

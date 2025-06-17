@@ -35,6 +35,26 @@ HTML stands for Hyper Text Markup Language. It's used to structure content on th
 ### ✅ Lesson 4: Creating Headings
 - Using `<h1>` to `<h6>`
 
+### ✅ Lesson 5: Web File Formats
+- Overview of file types: `.html`, `.css`, `.jpg`, `.png`, `.gif`
+- Understanding file extensions and their purposes
+
+### ✅ Lesson 6: Working with Images
+
+#### 🖼️ Part 1: Creating an Images Folder
+- Organize images into an `/images` folder
+
+#### 🖼️ Part 2: Adding an Image
+- Using the `<img>` tag with the `src` attribute
+- Image filenames are case-sensitive!
+
+#### 🖼️ Part 3: Resizing an Image
+- Use `width` and `height` attributes to control image size
+
+#### 🖼️ Part 4: Adding More Images
+- Place multiple images with different sizes and headings
+
+
 ---
 
 ## 🌐 Live Demo

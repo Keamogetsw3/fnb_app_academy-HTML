@@ -77,6 +77,7 @@ You can view the live HTML page here:
 
 🔗 [View about.html on GitHub Pages](https://keamogetsw3.github.io/fnb_app_academy-HTML/about.html)
 
+[View boat.html on GitHub Pages](https://keamogetsw3.github.io/fnb_app_academy-HTML/boat.html)
 
 ## 🛠 Tools
 - [VS Code Download](https://code.visualstudio.com/)

@@ -75,6 +75,8 @@ You can view the live HTML page here:
 
 🔗 [View hyperlinks.html on GitHub Pages](https://keamogetsw3.github.io/fnb_app_academy-HTML/hyperlinks.html)
 
+🔗 [View about.html on GitHub Pages](https://keamogetsw3.github.io/fnb_app_academy-HTML/about.html)
+
 
 ## 🛠 Tools
 - [VS Code Download](https://code.visualstudio.com/)
